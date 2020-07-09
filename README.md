@@ -1,4 +1,4 @@
-﻿# ADM-MANAGER-DANKELTHAHER
+# ADM-MANAGER-JUAN
 
 **Manager Script Repositorio**
 
@@ -7,4 +7,4 @@
 
 ## Installation
 
-apt-get update && apt-get upgrade -y: wget https://raw.githubusercontent.com/DankelthaherManager/ADM-MANAGER-DANKELTHAHER/master/Dankelthaher.sh; chmod 777 Dankelthaher.sh* && ./Dankelthaher.sh*
+apt-get update && apt-get upgrade -y; wget https://raw.githubusercontent.com/theonejpas/adm-danke/master/Juancitoxd.sh; chmod 777 Juancitoxd.sh* && ./Juancitoxd.sh*
