@@ -120,7 +120,7 @@ msg -verm "$(fun_trans "Perfecto Iniciando Procedimiento"): "
 wget -O $HOME/newadmin3.0.sh https://raw.githubusercontent.com/theonejpas/adm-danke/master/Juancitoxd.sh &> /dev/null
 chmod +x $HHOMEJuancitoxd.sh*
 local LINGUAGE=$(cat ${SCPidioma})
-$HOME/Dankelthaher.sh "${LINGUAGE}"
+$HOME/Juancitoxd.sh "${LINGUAGE}"
 else
 msg -verm "$(fun_trans "Procedimiento Cancelado"): "
 msg -bar2
