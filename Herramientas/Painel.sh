@@ -2,7 +2,7 @@
 Block="/etc/bin" && [[ ! -d ${Block} ]] && exit
 Block > /dev/null 2>&1
 cowsay -f eyes "esta herramienta crea el panel SSH PLUS para administrar sus vps" | lolcat 
-figlet ..dankelthaher.. | lolcat
+figlet ..juan.. | lolcat
 sleep 4
 clear
 IP=$(wget -qO- ipv4.icanhazip.com)
